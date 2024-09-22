@@ -1,1 +1,1 @@
-# kong_insomania
+inso is a default browser
